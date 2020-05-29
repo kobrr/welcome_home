@@ -1,6 +1,10 @@
 # welcome_home<br>
 Turn the lights on to welcome you to your home using switch bot and LINE bot<br>
 
+# LINE bot<br>
+![Screenshot_20200530_000255](https://user-images.githubusercontent.com/58103830/83275085-a7b0ab00-a209-11ea-9835-cc4d2b6be659.jpg)
+
+
 # enviroment varibles<br>
 LINE_CHANNEL_ACCESS_TOKEN: LINE CHANNEL ACCESS_TOKEN<br>
 LINE_CHANNEL_SECRET: LINE CHANNEL<br>
